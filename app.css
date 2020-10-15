@@ -1,0 +1,40 @@
+body {
+    background-color: grey;
+}
+
+.container {
+    height: 300px;
+    width: 100%;
+    color: yellow;
+    text-align: center;
+}
+
+#display {
+    text-align: center;
+    width: 100%;
+    font-size: 72px;
+    /* margin: 120px auto; */
+    margin-top: 10px;
+}
+
+.buttons {
+    text-align: center;
+    color: yellow;
+
+}
+
+#reset, #startStop {
+    background-color: yellow;
+    font-size: 24px;
+    padding: 10px;
+    border-radius: 20%;
+    border: 2px solid rgb(201, 201, 201);
+    margin: 10px;
+    transition-duration: 0.2s;
+}
+
+#reset:hover, #startStop:hover {
+    background-color: grey;
+    color: white;
+    cursor: pointer;
+}
