@@ -34,7 +34,7 @@ body {
 }
 
 #reset:hover, #startStop:hover {
-    background-color: grey;
+    background-color: red;
     color: white;
     cursor: pointer;
 }
