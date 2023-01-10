@@ -1,4 +1,4 @@
-# stopwatch
+# Stopwatch
 
 Trying to do some serious time conscious work? Or maybe just challenging a friend to see how fast you can complete a game? 
 
